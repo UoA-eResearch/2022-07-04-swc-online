@@ -177,8 +177,6 @@ Modify the block below if there are any special requirements.
 </p>
 
 {% comment %}
-
-{% comment %}
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
