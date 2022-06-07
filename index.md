@@ -226,7 +226,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    Priority will be given to PhD students and early career researchers from the University of Auckland, but this workshop is open to masters, PhD students, and researchers from any university or research organisation in Aotearoa New Zealand. [Apply here](https://research-hub.auckland.ac.nz/event/software-carpentry).
+    Priority will be given to PhD students and early career researchers from the University of Auckland, but this workshop is open to masters, PhD students, and researchers from any university or research organisation in Aotearoa New Zealand. <a href="https://research-hub.auckland.ac.nz/event/software-carpentry">Apply here</a>.
 </p>
 
 
